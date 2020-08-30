@@ -1,5 +1,7 @@
 # User Directory
 
+<img src="public/Table.PNG" />
+
 ## URL Link
 
 https://tableofusers.herokuapp.com/
@@ -14,9 +16,6 @@ This application is a table created through React Table v7. It pulls from an API
 * The app stores all the burgers in the database whether they have been eaten or not.
 
 
-## Overview
-
-<img src="public/Table.PNG" width="250"/>
 
 ## Local Setup
 
