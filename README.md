@@ -14,8 +14,7 @@ This application is a table created through React Table v7. It pulls from an API
 ## Steps
 
 * The user is presented with a table of randomized users, with email and city they reside in
-* It will then get added to the burger list in the middle of the page.
-    * This burger will have the option of "Eat Me!" next to it. Which clicked on will move it to the eaten burgers section on the right side of the page.
+* Several pages of the users can be cycled through from numbers on the bottom
 * The app stores all the burgers in the database whether they have been eaten or not.
 
 
