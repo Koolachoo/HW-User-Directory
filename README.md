@@ -15,7 +15,7 @@ This application is a table created through React Table v7. It pulls from an API
 
 * The user is presented with a table of randomized users, with email and city they reside in
 * Several pages of the users can be cycled through from numbers on the bottom
-* The app stores all the burgers in the database whether they have been eaten or not.
+* By clicking any of the top bars of the table, one can sort the table by that parameter, ascending or descending
 
 
 
