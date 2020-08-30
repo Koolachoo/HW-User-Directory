@@ -1,5 +1,6 @@
 # User Directory
 
+
 <img src="public/Table.PNG" />
 
 ## URL Link
@@ -9,6 +10,8 @@ https://tableofusers.herokuapp.com/
 ## Description
 
 This application is a table created through React Table v7. It pulls from an API that generates random users
+
+## Steps
 
 * The user has the option to add a burger in the form section on the left side of the page.
 * It will then get added to the burger list in the middle of the page.
