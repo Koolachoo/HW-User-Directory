@@ -57,7 +57,5 @@ npm start
     - react
     - node
 
-## Role in development
 
-Sole developer of application.
 
