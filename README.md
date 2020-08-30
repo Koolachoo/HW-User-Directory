@@ -17,6 +17,7 @@ This application is a table created through React Table v7. It pulls from an API
 * Several pages of the users can be cycled through from numbers on the bottom
 * By clicking any of the top bars of the table, one can sort the table by that parameter, ascending or descending
 * Using the drop down in the top left, the user can filter the whole table by people's first names
+* The very bottom row can allow the user to quick jump to certain pages and decide how many names are shown at one time
 
 
 
